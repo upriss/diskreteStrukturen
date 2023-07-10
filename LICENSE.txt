@@ -1,9 +1,0 @@
-Copyright 2023
-
-This work is licensed under the 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
-
-To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-The materials in this repository follow and relate to the (unpublished) textbook 
-"Modellieren mit Diskreten Strukturen" by Peter Riegler (from Ostfalia University). 
